@@ -8,6 +8,7 @@ public class Composite extends Composant{
 
     @Override
     public void add(Composant comp){
+
         composants.add(comp);
     }
 
